@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactnotesapp/static/css/main.9ffa4e81.chunk.css",
+    "main.js": "/reactnotesapp/static/js/main.5facbac3.chunk.js",
+    "main.js.map": "/reactnotesapp/static/js/main.5facbac3.chunk.js.map",
+    "runtime-main.js": "/reactnotesapp/static/js/runtime-main.f47524e2.js",
+    "runtime-main.js.map": "/reactnotesapp/static/js/runtime-main.f47524e2.js.map",
+    "static/js/2.8618309a.chunk.js": "/reactnotesapp/static/js/2.8618309a.chunk.js",
+    "static/js/2.8618309a.chunk.js.map": "/reactnotesapp/static/js/2.8618309a.chunk.js.map",
+    "static/js/3.bc26e6d5.chunk.js": "/reactnotesapp/static/js/3.bc26e6d5.chunk.js",
+    "static/js/3.bc26e6d5.chunk.js.map": "/reactnotesapp/static/js/3.bc26e6d5.chunk.js.map",
+    "index.html": "/reactnotesapp/index.html",
+    "static/css/main.9ffa4e81.chunk.css.map": "/reactnotesapp/static/css/main.9ffa4e81.chunk.css.map",
+    "static/js/2.8618309a.chunk.js.LICENSE.txt": "/reactnotesapp/static/js/2.8618309a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f47524e2.js",
+    "static/js/2.8618309a.chunk.js",
+    "static/css/main.9ffa4e81.chunk.css",
+    "static/js/main.5facbac3.chunk.js"
+  ]
+}
